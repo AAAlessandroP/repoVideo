@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Service
+Actions=share;
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=application/octet-stream;
+
+[Desktop Action share]
+
+Exec=node /home/ale/Desktop/node/repoVideoClient/app.js %f 
+Name=share this file
+
+
+# in fedora the dir for right-click actions is /usr/share/kservices5/ServiceMenus/
