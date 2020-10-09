@@ -1,5 +1,5 @@
 shareFiles
-==========
+----------
 
 Simple client-server app to publish your files to a remote nodejs instance.
 Your file will be read by the nodejs client app, sent to the remote instance that will write it on the remote's filesystem.
