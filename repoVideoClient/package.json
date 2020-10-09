@@ -1,0 +1,16 @@
+{
+  "name": "mygpx",
+  "version": "1.0.0",
+  "description": "uploads a video.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  },
+  "author": "me",
+  "license": "MIT"
+}
